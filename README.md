@@ -1,2 +1,2 @@
 # MoviesApp
-SQL Movies Application
+SQL Movies Application for Power BI Analyst
