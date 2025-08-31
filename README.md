@@ -1,2 +1,2 @@
 # MoviesApp
-SQL Movies Application for Power BI Analyst
+SQL Movies Database and Application for Power BI Analyst
